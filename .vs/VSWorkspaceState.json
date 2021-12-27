@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "\\public",
+    "\\src",
+    "\\src\\plugins",
+    "\\src\\views",
+    "\\src\\views\\dashboard",
+    "\\src\\views\\dashboard\\components",
+    "\\src\\views\\dashboard\\components\\core",
+    "\\src\\views\\pages",
+    "\\src\\views\\pages\\components",
+    "\\src\\views\\pages\\components\\core"
+  ],
+  "PreviewInSolutionExplorer": false
+}
